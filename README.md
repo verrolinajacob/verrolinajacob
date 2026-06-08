@@ -154,7 +154,7 @@ Secure digital platform for patient profile and medical records management. Norm
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=verrolina-john-jacob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f2c&title_color=4A9EFF&text_color=ffffff&icon_color=4A9EFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verrolina-john-jacob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f2c&title_color=4A9EFF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verrolinajacob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f2c&title_color=4A9EFF&text_color=ffffff"/>
 
 <br/>
 
