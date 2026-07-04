@@ -19,7 +19,7 @@
 <br/>
 
 <!-- PROFILE VIEWS COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=verrolina-john-jacob&label=Profile+Views&color=1a4fa8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=verrolinajacob&label=Profile+Views&color=1a4fa8&style=for-the-badge)
 
 </div>
 
@@ -163,12 +163,12 @@ ACO-driven intelligent cloud resource allocation — a Streamlit simulator combi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=verrolina-john-jacob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f2c&title_color=4A9EFF&text_color=ffffff&icon_color=4A9EFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=verrolinajacob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f2c&title_color=4A9EFF&text_color=ffffff&icon_color=4A9EFF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verrolinajacob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f2c&title_color=4A9EFF&text_color=ffffff"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=verrolina-john-jacob&theme=tokyonight&hide_border=true&background=0a0f2c&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=verrolinajacob&theme=tokyonight&hide_border=true&background=0a0f2c&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF)
 
 </div>
 
