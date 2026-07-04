@@ -83,7 +83,7 @@ class Verrolina:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 Agro-Based FloatChat
+### 🌾 Argo-Based FloatChat
 **`Python · HTML · CSS`**
 
 Real-time messaging platform with floating chat interfaces designed for agricultural community stakeholders. Delivers low-latency communication and responsive UI tailored to rural tech accessibility.
@@ -122,6 +122,20 @@ Secure digital platform for patient profile and medical records management. Norm
 
 > 📌 *Aligned with healthcare data management standards*
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Evo Unified
+**`Python` `Streamlit` `SQLite`**
+
+ACO-driven intelligent cloud resource allocation — a Streamlit simulator combining Ant Colony Optimization and Genetic Algorithm mutation, validated with a full confusion matrix evaluation pipeline.
+
+> 📌 *Measurable allocation accuracy through bio-inspired optimization*
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
