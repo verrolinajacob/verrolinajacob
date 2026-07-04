@@ -83,12 +83,12 @@ class Verrolina:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 Argo-Based FloatChat
-**`Python · HTML · CSS`**
+### 🌊 FloatChat
+**`Python` `AI` `Data Visualization`**
 
-Real-time messaging platform with floating chat interfaces designed for agricultural community stakeholders. Delivers low-latency communication and responsive UI tailored to rural tech accessibility.
+AI-powered conversational interface for ARGO ocean data discovery and visualization. Enables natural-language querying of oceanographic float data, surfacing insights through interactive visual exploration.
 
-> 📌 *Improved information exchange across agriculture supply chains*
+> 📌 *Makes complex ocean sensor data accessible through conversational AI*
 
 </td>
 <td width="50%" valign="top">
@@ -125,7 +125,7 @@ Secure digital platform for patient profile and medical records management. Norm
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" align="center" valign="top">
 
 ### ☁️ Cloud Evo Unified
 **`Python` `Streamlit` `SQLite`**
@@ -134,8 +134,6 @@ ACO-driven intelligent cloud resource allocation — a Streamlit simulator combi
 
 > 📌 *Measurable allocation accuracy through bio-inspired optimization*
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
