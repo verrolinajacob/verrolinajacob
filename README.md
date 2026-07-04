@@ -30,16 +30,14 @@
 ```python
 class Verrolina:
     name        = "Verrolina John Jacob"
-    usn         = "24BTRCM026"
     university  = "Jain (Deemed-to-be) University, Bangalore"
     degree      = "B.Tech CSE — Cloud Technology & Mobile Applications"
     year        = "2nd Year (2024–2028)"
-    cgpa        = 9.2
 
     skills      = ["Python", "SQL", "C", "HTML5", "CSS3", "AWS", "Django"]
     interests   = ["Cloud Computing", "AI/ML", "Prompt Engineering", "Mobile Apps"]
     achievements = ["SIH 2024 National Participant", "7+ Industry Certifications"]
-    currently   = "Seeking internship in Software Development / Cloud Computing"
+    currently   = "Seeking internships and jobs in Software Development / Cloud Computing"
 
     def say_hi(self):
         return "Let's build something that matters. 🚀"
