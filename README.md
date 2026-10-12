@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:0d2b6b,100:1a4fa8&height=200&section=header&text=Verrolina%20John%20Jacob&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20AI%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2c,50:0d2b6b,100:1a4fa8&height=200&section=header&text=Verrolina%20John%20Jacob&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%7C%20AI%20%7C%20&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -177,7 +177,7 @@ ACO-driven intelligent cloud resource allocation — a Streamlit simulator combi
 ## 🎯 Currently
 
 ```
-🎓  2nd Year B.Tech CSE @ Jain University — CGPA: 9.2
+🎓  3nd Year B.Tech CSE @ Jain University — CGPA: 9.2
 🔭  Building AI-powered and cloud-native applications
 📚  Deepening expertise in AWS, Django, and Generative AI
 🏆  Active hackathon competitor — SIH 2024 National Participant
