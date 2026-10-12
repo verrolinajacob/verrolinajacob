@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+CGPA+9.2+%F0%9F%8F%86;Cloud+Technology+%26+Mobile+Apps;AI-Powered+App+Developer;SIH+2024+National+Participant;7%2B+Industry+Certifications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+CGPA+9.2+%F0%9F%8F%86;Cloud+Technology+%26+Mobile+Apps;SIH+2024+National+Participant;7%2B+Industry+Certifications" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@ class Verrolina:
     name        = "Verrolina John Jacob"
     university  = "Jain (Deemed-to-be) University, Bangalore"
     degree      = "B.Tech CSE — Cloud Technology & Mobile Applications"
-    year        = "2nd Year (2024–2028)"
+    year        = "3nd Year (2024–2028)"
 
     skills      = ["Python", "SQL", "C", "HTML5", "CSS3", "AWS", "Django"]
     interests   = ["Cloud Computing", "AI/ML", "Prompt Engineering", "Mobile Apps"]
